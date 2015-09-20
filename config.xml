@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.tharthar2.game" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>My Love</name>
+<widget id="com.tharthar3.love" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>Hello My Love</name>
     <description>
-        For JuJu
+        My Love is World
     </description>
     <author email="support@phonegap.com" href="http://phonegap.com">
         PhoneGap Team

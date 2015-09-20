@@ -1,6 +1,6 @@
 body {}
 
-/*			index page 			*/
+/*////////////////////			index page 			////////////////////*/
 .bg_color_blue {
 	background: #3D4A89;
 }
@@ -19,12 +19,52 @@ body {}
 	width: 30%;
 }
 
-
-/* header */
-
-.page.header {
-	background: #1F36B7;
+.page.index .my_name {
+	font-size: 10px;
+	text-align: center;
+	margin-top: 10px;
 }
+
+/*////////////////////			page home 			////////////////////*/
+
+.page.home {
+	color: #f7f7f7;
+}
+
+.page.home img {
+	border: 1px solid green;
+}
+
+
+
+
+
+/*////////////////////			page header 			////////////////////*/
+
+.page.header .back_button  a {
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
+
+.page.header .text {
+	margin-top: 13px;
+	color: #FFF;
+	font-family: bold;
+	font-size: 20px;
+	text-align: center;
+}
+
+.page.header .text .glyphicon {
+	font-size: 11px;
+}
+
+
+
+
+
+
+
+
 
 
 

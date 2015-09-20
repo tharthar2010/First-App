@@ -1,0 +1,33 @@
+body {}
+
+/*			index page 			*/
+.bg_color_blue {
+	background: #3D4A89;
+}
+
+.page.index {
+	color: #f7f7f7;
+	font-family: bold;
+	margin-top: 50%;
+}
+
+.page.index .yes_btn {
+	width: 30%;
+}
+
+.page.index .no_btn {
+	width: 30%;
+}
+
+
+/* header */
+
+.page.header {
+	background: #1F36B7;
+}
+
+
+
+
+
+

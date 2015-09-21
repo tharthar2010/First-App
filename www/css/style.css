@@ -1,4 +1,22 @@
-body {}
+body {
+	color: #FFF;
+}
+
+a {
+	text-decoration: none;
+}
+
+.m-top-20 {
+	margin-top: 20px;
+}
+
+.m-btm-20 {
+	margin-bottom: 20px;
+}
+
+
+
+
 
 /*////////////////////			index page 			////////////////////*/
 .bg_color_blue {
@@ -42,7 +60,7 @@ body {}
 
 /*////////////////////			page header 			////////////////////*/
 
-.page.header .back_button  a {
+.page.header .back_button a {
 	margin-bottom: 10px;
 	margin-top: 10px;
 }
@@ -142,6 +160,18 @@ body {}
 	color: #FFF;
 }
 
+.page.menu .birthday {
+	text-align: center;
+	margin-top: 30px;
+}
+
+.page.menu .birthday p {
+	font-size: 20px;
+	font-family: bold;
+}
+
+
+
 
 
 
@@ -220,7 +250,13 @@ body {}
   
 
 
-
+/*////////////////////			page gallery 			////////////////////*/
+.page.gallery .border {
+	border-top: 2px solid gray;
+	border-bottom: 2px solid gray;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
 
 
 

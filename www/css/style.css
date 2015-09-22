@@ -4,6 +4,7 @@ body {
 
 a {
 	text-decoration: none;
+	color: #aaa;
 }
 
 .m-top-20 {
@@ -84,6 +85,10 @@ a {
 
 
 /*////////////////////			page menu 			////////////////////*/
+.page.menu a {
+	color: black !important;
+}
+
 .page.menu .Color_1 {
 	background: #90B4ED;
 	height: 120px;
@@ -160,15 +165,27 @@ a {
 	color: #FFF;
 }
 
-.page.menu .birthday {
-	text-align: center;
-	margin-top: 30px;
+.page.menu .Color_5 {
+	background: #878655;
+	height: 120px;
+	text-align: center;  
 }
 
-.page.menu .birthday p {
+.page.menu .Color_5 .glyphicon {
+	font-size: 60px;
+	color: #FFF;
+	margin-top: 15px;
+	padding-right: 5px;
+}
+
+.page.menu .Color_5 p {
 	font-size: 20px;
 	font-family: bold;
+	color: #FFF;
+	margin-top: 8px;
 }
+
+
 
 
 
@@ -261,8 +278,21 @@ a {
 
 
 
+/*////////////////////			page gift 			////////////////////*/
 
+.page.gift .birthday {
+	text-align: center;
+	margin-top: 30px;
+}
 
+.page.gift .birthday img {
+	margin: 0 auto;
+}
+
+.page.gift .birthday p {
+	font-size: 20px;
+	font-family: bold;
+}
 
 
 
